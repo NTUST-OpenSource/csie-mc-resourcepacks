@@ -1,0 +1,17 @@
+{
+  "animation": {
+    "frametime": 2,
+    "interpolate": true,
+    "width": 32,
+    "height": 32
+  },
+  "gui": {
+    "scaling": {
+      "type": "nine_slice",
+      "width": 32,
+      "height": 32,
+      "border": 12,
+      "stretch_inner": true
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "description": "資工系 Minecraft 專屬材質包",
+    "pack_format": 46,
+    "supported_formats": {
+      "min_inclusive": 46,
+      "max_inclusive": 200
+    },
+    "min_format": 46,
+    "max_format": 200
+  }
+}
